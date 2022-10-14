@@ -1,2 +1,2 @@
 # sistema-interno-pizzaria
-Sistema em C# 
+Sistema em C# e orientação a objeto
